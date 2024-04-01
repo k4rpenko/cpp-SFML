@@ -1,0 +1,9 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="fox.png" transparentColor="">
+ <animation title="Default animation" delay="150">
+  <cut w="34" x="206" y="204" h="50" row="1" col="1"/>
+  <cut w="34" x="142" y="206" h="46" row="1" col="1"/>
+  <cut w="34" x="78" y="204" h="50" row="1" col="1"/>
+  <cut w="34" x="14" y="206" h="46" row="1" col="1"/>
+ </animation>
+</sprites>
