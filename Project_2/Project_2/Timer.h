@@ -3,7 +3,7 @@
 using namespace std;
 namespace sf
 {
-    //Я писав його ще на початку в сінчі напевно, з блоганом
+   
     class Timer
     {
     private:
